@@ -7,7 +7,7 @@ Just structure.
 
 What I built in this phase
 
-✔ Navigation bar
+✔ Navigation bar\n
 ✔ Hero / intro section
 ✔ Email form
 ✔ Feature sections
